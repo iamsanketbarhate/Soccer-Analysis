@@ -1,7 +1,7 @@
-# E-commerce Analytics Project
+# Soccer Analytics Project
 
 ## Project Overview
-This data analysis project focuses on extracting meaningful insights from e-commerce database using advanced SQL techniques. The project demonstrates proficiency in data manipulation, aggregation, and deriving actionable business intelligence.
+This data analysis project focuses on extracting meaningful insights from soccer database using advanced SQL techniques. The project demonstrates proficiency in data manipulation, aggregation, and deriving actionable business intelligence.
 
 ## Key Skills Demonstrated
 - Complex SQL querying across multiple database tables
